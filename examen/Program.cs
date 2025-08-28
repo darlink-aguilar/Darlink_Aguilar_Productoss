@@ -27,6 +27,7 @@ public class Productos
 public class Limpiapisos : Productos
 {
     public string? Aroma;
+    public string? Marca;
 
 }
 
