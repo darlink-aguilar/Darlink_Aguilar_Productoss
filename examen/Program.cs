@@ -28,6 +28,7 @@ public class Limpiapisos : Productos
 {
     public string? Aroma;
     public string? Marca;
+    public string? Descripcion;
 
 }
 
